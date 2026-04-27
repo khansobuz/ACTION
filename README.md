@@ -71,7 +71,19 @@ Evaluates performance under domain shift across datasets:
 | Method | UCF→ST | ST→UCF | UCF→XD | XD→UCF | ST→XD | XD→ST |
 |--------|--------|--------|--------|--------|--------|--------|
 
- 
+
+## 🌐 Dataset Links
+
+- 🔗 UCF-Crime  
+https://openaccess.thecvf.com/content_cvpr_2018/html/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.html  
+
+- 🔗 XD-Violence  
+https://link.springer.com/chapter/10.1007/978-3-030-58577-8_20  
+
+- 🔗 ShanghaiTech  
+https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html  
+
+---
  
 
 ## 📷 Figures
