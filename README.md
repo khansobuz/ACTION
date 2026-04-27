@@ -40,7 +40,6 @@ This repository contains the following main modules:
 - **UCF_TTA.py** → Test-Time Adaptation for UCF-Crime dataset  
 - **cross_dataset_6_groups.py** → Cross-dataset evaluation (6 transfer settings)
 
- 
 
 ## 🔁 Cross-Dataset Evaluation
 
@@ -57,26 +56,6 @@ Implemented in:
 - Cross-dataset evaluation
 # ACTION: Test-Time Video Anomaly Detection
 
- 
-
-## 📁 Project Files
-
-This repository contains the following main modules:
-
-- **ST_TTA.py** → Test-Time Adaptation for ShanghaiTech (ST) dataset  
-- **TTA_XD.py** → Test-Time Adaptation for XD-Violence dataset  
-- **UCF_TTA.py** → Test-Time Adaptation for UCF-Crime dataset  
-- **cross_dataset_6_groups.py** → Cross-dataset evaluation (6 transfer settings)
-
- 
-
-## 🔁 Cross-Dataset Evaluation
-
-Evaluates performance under domain shift across datasets:
-
-| Method | UCF→ST | ST→UCF | UCF→XD | XD→UCF | ST→XD | XD→ST |
-|--------|--------|--------|--------|--------|--------|--------|
-
 
 ## 🌐 Dataset Links
 
@@ -88,8 +67,6 @@ https://link.springer.com/chapter/10.1007/978-3-030-58577-8_20
 
 - 🔗 ShanghaiTech  
 https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html  
-
-
 
 
 ---
