@@ -16,6 +16,12 @@ These components allow stable adaptation without retraining or source data acces
 
 ---
 
+## 📷 Figures
+
+### Framework Overview
+ 
+ ![Uploading Qualtative_TTA.jpg…]()
+
  
 # ACTION: Test-Time Video Anomaly Detection
 
@@ -83,14 +89,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-58577-8_20
 - 🔗 ShanghaiTech  
 https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html  
 
----
- 
 
-## 📷 Figures
-
-### Framework Overview
- 
- ![Uploading Qualtative_TTA.jpg…]()
 
 
 ---
